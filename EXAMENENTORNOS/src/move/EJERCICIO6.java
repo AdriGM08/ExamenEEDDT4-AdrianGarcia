@@ -15,6 +15,8 @@ public class EJERCICIO6 implements e6 {
 		System.out.println("hola mundo");
 		System.out.println("cambio1");
 		System.out.println("cambio2");
+		System.out.println("cambio3");
+
 		
 		
 
